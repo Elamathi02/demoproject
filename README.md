@@ -1,1 +1,1 @@
-echo welcomw
+echo "welcome to bts"
